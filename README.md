@@ -23,4 +23,4 @@ The study was conducted as part of an M.Tech thesis at Jawaharlal Nehru Technolo
 
 2.Citation
 If using this work, cite:
-Degala Royal, P. (2024). Enhancing Long-lived Bug Prediction in FLOSS: An Empirical Comparison of BERT, TF-IDF, GCN, and RNN. M.Tech Thesis, JNTU-Gurajada.
+Degala Chenchupradeep. (2024)., Enhancing Long-lived Bug Prediction in FLOSS: An Empirical Comparison of BERT, TF-IDF, GCN, and RNN. M.Tech Thesis, JNTU-Gurajada.
