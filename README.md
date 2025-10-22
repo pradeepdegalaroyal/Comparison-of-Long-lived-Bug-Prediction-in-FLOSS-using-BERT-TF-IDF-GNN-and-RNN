@@ -23,3 +23,10 @@ The study was conducted as part of an M.Tech thesis at Jawaharlal Nehru Technolo
    ```bash
    git clone https://github.com/pradeepdegalaroyal/Comparison-of-Long-lived-Bug-Prediction-in-FLOSS-using-BERT-TF-IDF-GNN-and-RNN.git
    cd Comparison-of-Long-lived-Bug-Prediction-in-FLOSS-using-BERT-TF-IDF-GNN-and-RNN
+2. pip install -r requirements.txt
+3. jupyter notebook bug_prediction_notebook.ipynb
+
+
+2.Citation
+If using this work, cite:
+Degala Royal, P. (2024). Enhancing Long-lived Bug Prediction in FLOSS: An Empirical Comparison of BERT, TF-IDF, GCN, and RNN. M.Tech Thesis, JNTU-Gurajada.
