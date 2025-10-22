@@ -10,10 +10,7 @@ The study was conducted as part of an M.Tech thesis at Jawaharlal Nehru Technolo
 - **Results**: BERT-based models (e.g., DistilBERT + MLPClassifier) outperformed TF-IDF, GCN, and RNN, achieving higher precision/recall on diverse datasets.
 - **Impact**: Improves bug detection efficiency, reducing long-lived bugs in open-source projects.
 
-## Repository Structure
-- `bug_prediction_notebook.ipynb`: Jupyter notebook with data loading, feature extraction, model training, and evaluation.
-- `requirements.txt`: Dependencies for reproducibility.
-- `evaluation.py`: Script for running experiments and generating reports.
+
 
 ## Installation
 1. Clone the repository:
