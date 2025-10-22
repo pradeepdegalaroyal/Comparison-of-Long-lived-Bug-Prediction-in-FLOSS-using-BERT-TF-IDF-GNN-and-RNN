@@ -12,9 +12,6 @@ The study was conducted as part of an M.Tech thesis at Jawaharlal Nehru Technolo
 
 ## Repository Structure
 - `bug_prediction_notebook.ipynb`: Jupyter notebook with data loading, feature extraction, model training, and evaluation.
-- `data/`: Sample FLOSS datasets (e.g., bug reports from GitHub repos; anonymized for privacy).
-- `models/`: Trained models and feature extractors (BERT, TF-IDF, GNN, RNN).
-- `results/`: Plots and metrics (accuracy, F1-score, confusion matrices).
 - `requirements.txt`: Dependencies for reproducibility.
 - `evaluation.py`: Script for running experiments and generating reports.
 
